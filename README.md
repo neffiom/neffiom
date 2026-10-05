@@ -49,6 +49,16 @@ engineering, and forecasting model development.
 
 ➡️ Project repository coming soon.
 
+## 🎓 Graduate Coursework
+
+My graduate coursework from my M.S. in Data Science is maintained in a private
+repository to comply with academic integrity requirements.
+
+Coursework includes machine learning, statistical modeling, database management,
+data visualization, and an applied data science capstone.
+
+Access can be provided upon request.
+
 ---
 
 I'm currently interested in opportunities in **Data Science, Machine Learning, 
