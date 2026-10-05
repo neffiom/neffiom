@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Natalie 👋
 
-<!--
-**neffiom/neffiom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Workforce Management & Reporting Analyst with an M.S. in Data Science, 
+focused on using data to solve operational problems and support better staffing and operational decision-making.
 
-Here are some ideas to get you started:
+My current work combines workforce analytics, reporting, exploratory data 
+analysis, and capacity planning. I'm also expanding my work in machine 
+learning and predictive modeling, with a particular interest in forecasting 
+and real-world operational applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm Working On
+
+- 📈 Building a machine learning project to forecast daily and intraday call volume
+- 🐍 Using Python and pandas for exploratory data analysis and data validation
+- 📊 Developing workforce and operational analytics solutions
+- 🤖 Expanding my experience with machine learning, forecasting, and model evaluation
+
+## 🛠️ Tools & Technologies
+
+**Languages & Data**
+- Python
+- SQL
+- pandas
+
+**Analytics & Visualization**
+- Excel
+- Power Query
+- PivotTables
+- Looker
+- Tableau
+
+**Data Science**
+- Exploratory Data Analysis
+- Statistical Modeling
+- Machine Learning
+- Forecasting
+- Predictive Modeling
+
+## 📂 Featured Projects
+
+### 📞 Call Center Volume Forecasting
+*In Progress*
+
+Developing a machine learning forecasting project to predict daily and 
+intraday contact volume using historical call-center data.
+
+**Current focus:** exploratory data analysis, temporal patterns, feature 
+engineering, and forecasting model development.
+
+➡️ Project repository coming soon.
+
+---
+
+I'm currently interested in opportunities in **Data Science, Machine Learning, 
+Forecasting, and Analytics** where I can apply my operational experience and 
+data science background to real-world problems.
